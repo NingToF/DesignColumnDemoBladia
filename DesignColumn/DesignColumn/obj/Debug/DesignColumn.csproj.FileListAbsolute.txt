@@ -1,0 +1,8 @@
+C:\Bladia\Data\DesignColumn\DesignColumn\bin\Debug\DesignColumn.dll
+C:\Bladia\Data\DesignColumn\DesignColumn\bin\Debug\DesignColumn.pdb
+C:\Bladia\Data\DesignColumn\DesignColumn\obj\Debug\DesignColumn.csproj.AssemblyReference.cache
+C:\Bladia\Data\DesignColumn\DesignColumn\obj\Debug\DesignColumn.csproj.CoreCompileInputs.cache
+C:\Bladia\Data\DesignColumn\DesignColumn\obj\Debug\DesignColumn.dll
+C:\Bladia\Data\DesignColumn\DesignColumn\obj\Debug\DesignColumn.pdb
+C:\Bladia\Data\DesignColumn\DesignColumn\obj\Debug\DesignColumn.MyModelessForm.resources
+C:\Bladia\Data\DesignColumn\DesignColumn\obj\Debug\DesignColumn.csproj.GenerateResource.cache
